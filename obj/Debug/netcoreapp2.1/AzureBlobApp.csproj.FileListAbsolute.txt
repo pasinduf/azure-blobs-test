@@ -1,0 +1,11 @@
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\bin\Debug\netcoreapp2.1\AzureBlobApp.deps.json
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\bin\Debug\netcoreapp2.1\AzureBlobApp.runtimeconfig.json
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\bin\Debug\netcoreapp2.1\AzureBlobApp.runtimeconfig.dev.json
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\bin\Debug\netcoreapp2.1\AzureBlobApp.dll
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.csprojAssemblyReference.cache
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.csproj.CoreCompileInputs.cache
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.AssemblyInfoInputs.cache
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.AssemblyInfo.cs
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\bin\Debug\netcoreapp2.1\AzureBlobApp.pdb
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.dll
+E:\CSharp\.NET CORE\AzureBlobApp\AzureBlobApp\obj\Debug\netcoreapp2.1\AzureBlobApp.pdb
